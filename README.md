@@ -77,6 +77,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=huseyinturkmen06&show_icons=true&theme=algolia" alt="ovi" />
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinturkmen06&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinturkmen06&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
