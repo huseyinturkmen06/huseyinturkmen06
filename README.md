@@ -81,7 +81,8 @@
 ![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinturkmen06&show_icons=true&theme=algolia)<br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinturkmen06&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinturkmen06&theme=algolia)
+
 
 
 
