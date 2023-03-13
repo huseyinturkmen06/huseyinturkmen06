@@ -13,7 +13,7 @@
 - Microservices 
 - Java Spring Boot and Spring Cloud
 - Desktop Applications
-- Python Applications
+- Python Applications.
 
 
 
