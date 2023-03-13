@@ -78,8 +78,10 @@
 ### 📊 Stats
 
 
+![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanflower1903&show_icons=true&theme=onedark)<br>
 
-![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinturkmen06&theme=algolia&show_icons=true)<br>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinturkmen06&theme=algolia&show_icons=true&layout=compact&langs_count=7) 
 
 
