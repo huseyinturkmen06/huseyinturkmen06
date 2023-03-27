@@ -79,7 +79,7 @@
 ### 📊 Stats
 
 
-![Huseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinturkmen06&show_icons=true&theme=algolia)<br>
+
 
 
 
