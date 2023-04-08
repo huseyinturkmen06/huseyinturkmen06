@@ -40,8 +40,8 @@
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg "/>
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
