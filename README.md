@@ -56,7 +56,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg "/>
+<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg "/>
 
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg "/>
 <img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg "/>
