@@ -1,6 +1,6 @@
 # 🕺 Huseyin Turkmen
 
-**`Computer Engineering | 4th Year Student`**
+**`Computer Engineer`**
 
 
 
@@ -12,8 +12,6 @@
 - Layered Achitecture and REST APIs
 - Microservices 
 - Java Spring Boot and Spring Cloud
-- Desktop Applications
-- Java Swing
 - Python Applications
 
 
