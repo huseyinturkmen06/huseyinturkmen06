@@ -12,7 +12,7 @@
 - Layered Achitecture and REST APIs
 - Microservices 
 - Java Spring Boot and Spring Cloud
-- Python Applications
+- Unit Test (JUnit & Mockito)
 
 
 
